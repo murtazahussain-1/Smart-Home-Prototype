@@ -1,0 +1,13 @@
+Dependencies for Project 'embedded_project', Target 'Target 1': (DO NOT MODIFY !)
+F (.\startup_TM4C123.s)(0x5DB6ACF8)(--cpu Cortex-M4.fp --pd "__EVAL SETA 1" -g --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\TI\TM4C123--list .\startup_tm4c123.lst --xref -o .\startup_tm4c123.o --depend .\startup_tm4c123.d)
+F (.\main.c)(0x5DE63D05)(-c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\TI\TM4C123-DTM4C123GH6PM-o .\main.o --omf_browse .\main.crf --depend .\main.d)
+I (C:\Keil\ARM\Inc\TI\TM4C123\tm4c123gh6pm.h)(0x532C1E48)
+I (C:\Keil\ARM\CMSIS\Include\core_cm4.h)(0x532C21F2)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7EF84)
+I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x532C21F2)
+I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x532C21F2)
+I (C:\Keil\ARM\CMSIS\Include\core_cm4_simd.h)(0x532C21F2)
+I (C:\Keil\ARM\Inc\TI\TM4C123\system_TM4C123.h)(0x532C1E48)
+I (C:\ti\TivaWare_C_Series-2.1.4.178\inc\tm4c123gh6pm.h)(0x5D909088)
+I (C:\Keil\ARM\ARMCC\include\string.h)(0x51C7EF84)
+I (C:\Keil\ARM\ARMCC\include\stdio.h)(0x51C7EF84)

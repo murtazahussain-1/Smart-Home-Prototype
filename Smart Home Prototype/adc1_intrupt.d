@@ -1,0 +1,11 @@
+.\adc1_intrupt.o: ADC1_intrupt.c
+.\adc1_intrupt.o: C:\Keil\ARM\Inc\TI\TM4C123\TM4C123GH6PM.h
+.\adc1_intrupt.o: C:\Keil\ARM\CMSIS\Include\core_cm4.h
+.\adc1_intrupt.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\adc1_intrupt.o: C:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+.\adc1_intrupt.o: C:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+.\adc1_intrupt.o: C:\Keil\ARM\CMSIS\Include\core_cm4_simd.h
+.\adc1_intrupt.o: C:\Keil\ARM\Inc\TI\TM4C123\system_TM4C123.h
+.\adc1_intrupt.o: C:\ti\TivaWare_C_Series-2.1.4.178\inc\tm4c123gh6pm.h
+.\adc1_intrupt.o: C:\Keil\ARM\ARMCC\bin\..\include\string.h
+.\adc1_intrupt.o: C:\Keil\ARM\ARMCC\bin\..\include\stdio.h

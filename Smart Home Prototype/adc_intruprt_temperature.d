@@ -1,0 +1,11 @@
+.\adc_intruprt_temperature.o: ADC_Intruprt_Temperature.c
+.\adc_intruprt_temperature.o: C:\Keil\ARM\Inc\TI\TM4C123\TM4C123GH6PM.h
+.\adc_intruprt_temperature.o: C:\Keil\ARM\CMSIS\Include\core_cm4.h
+.\adc_intruprt_temperature.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\adc_intruprt_temperature.o: C:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+.\adc_intruprt_temperature.o: C:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+.\adc_intruprt_temperature.o: C:\Keil\ARM\CMSIS\Include\core_cm4_simd.h
+.\adc_intruprt_temperature.o: C:\Keil\ARM\Inc\TI\TM4C123\system_TM4C123.h
+.\adc_intruprt_temperature.o: C:\ti\TivaWare_C_Series-2.1.4.178\inc\tm4c123gh6pm.h
+.\adc_intruprt_temperature.o: C:\Keil\ARM\ARMCC\bin\..\include\string.h
+.\adc_intruprt_temperature.o: C:\Keil\ARM\ARMCC\bin\..\include\stdio.h
